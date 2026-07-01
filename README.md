@@ -70,15 +70,25 @@ Pizza sales dataset containing:
 - Categories with above average quantity sold
 - Average pizzas sold per order
 
-### SQL Concepts Used
+## SQL Concepts Used
 
 - SELECT
+- FROM
 - WHERE
+- AND
 - GROUP BY
 - ORDER BY
-- Aggregate Functions
+- LIMIT
+- DISTINCT
 - HAVING
 - Subqueries
+- Aggregate Functions
+  - SUM()
+  - COUNT()
+  - AVG()
+  - ROUND()
+- Column Aliases (AS)
+- SQLite Date & Time Function (strftime)
 
 ---
 
